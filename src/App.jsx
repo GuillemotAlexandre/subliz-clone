@@ -24,8 +24,9 @@ function App() {
         <PhotoGallery />
         <BecomeOwner /> 
         <Categories />
-        <HowItWorks />
+        
         <ForTenants />
+        <HowItWorks />
         <MarketExpansion />
         <Simulators />
         <PreFooter />
